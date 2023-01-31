@@ -1,11 +1,12 @@
 
-<h1>Baliwis's Project</h1>
+# Baliwis's Project
+A project for IPT
 
-<p>A project for IPT.</p>
+## Authors
+[• Dubst](https://github.com/Dubst)
 
-<h2>Authors</h2>
-<a href="https://github.com/Dubst">-@Dubst</a>
-
-<h2>Sample Code</h2>
-<p>printf("Hello World");</p>
+## Sample Code
+```c
+printf("Hello World!);
+```
 
