@@ -3,7 +3,7 @@
 A project for IPT
 
 ## Authors
-[• Dubst](https://github.com/Dubst)
+[@Dubst](https://github.com/Dubst)
 
 ## Sample Code
 ```c
