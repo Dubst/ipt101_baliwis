@@ -10,3 +10,4 @@ A project for IPT
 printf("Hello World!);
 ```
 
+Added Installation Instructions
